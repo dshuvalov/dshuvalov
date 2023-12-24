@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔎 I am looking for a job in fastly growth company with strong engineering standards.
+🔎 My bio:
 
 I have 6+ years of software development experience in JavaScript (React, Typescript, Flow, Node.js) and over 1 year as TechLead/TeamLead. 
 

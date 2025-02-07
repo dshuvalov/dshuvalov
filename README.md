@@ -2,7 +2,7 @@
 
 🔎 My bio:
 
-I have 7+ years of software development experience in JavaScript (React, Typescript, Flow, Node.js) and over 1 year as TechLead/TeamLead. 
+I have 7+ years of software development experience in JavaScript (React, Typescript, Flow, Node.js) and over 3 years as TechLead/TeamLead. 
 
 My core competence includes system designing, architecting, and developing web apps with React, Typescript, Next.js, mobile apps with React Native, enterprise-level microservices with NestJS and cloud services, and applying best practices of object-oriented programming, event-driven architecture, testing, and code quality. 
 I also contribute to the technical documentation, mentorship of new developers or providing support for existing ones, and designing new features and architectures. I am obsessed with CI/CD and CI tools that automate boring routines for engineers. 
